@@ -30,3 +30,7 @@ Executing the command: jupyter notebook
 [I 12:42:36.823 NotebookApp]  or http://127.0.0.1:8888/?token=2e4ec6d4a34b83aac9d73e3c7144367f1927929e13e42007
 ```
 4. 复制`token=`后面的字符串，打开浏览器访问`localhost:8888`，输入token开始探索ray吧~
+
+# Reference
+- [jupyter select image](https://jupyter-docker-stacks.readthedocs.io/en/latest/using/selecting.html)
+- [jupyter run container](https://jupyter-docker-stacks.readthedocs.io/en/latest/using/running.html)
